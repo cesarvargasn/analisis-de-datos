@@ -36,5 +36,5 @@ Este proyecto explora el uso de modelos logit y comparaciones con regresión lin
 ## 👤 Autor
 
 César Andrés Vargas Nieto  
-Universidad de los Andes – Facultad de Economía y Facultad de Administración
+Durante periodo de estudio en la Universidad de los Andes – Facultad de Economía y Facultad de Administración
 Año: 2024
