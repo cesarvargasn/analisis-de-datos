@@ -28,5 +28,5 @@ Este proyecto examina el efecto de recibir subsidios alimentarios y de educació
 ## 👤 Autor del código
 
 César Andrés Vargas Nieto  
-Universidad de los Andes – Facultad de Economía  
+Durante periodo de estudio en la Universidad de los Andes – Facultad de Economía  
 Curso: Econometría II – Año 2023
