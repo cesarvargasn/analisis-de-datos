@@ -7,10 +7,8 @@
 // PUNTO 1: Gasto en alimentación vs ingreso
 clear all
 use "iefic_2016_s13.dta"
-
 // Regresión lineal simple
 reg p2478_1 ingreso
-
 // Exportar resultados a Word
 outreg2 using resultados_taller3.doc, replace ctitle("Nivel") dec(3) title("Regresiones - Taller 3")
 
