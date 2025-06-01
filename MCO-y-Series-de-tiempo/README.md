@@ -45,6 +45,8 @@ Herramientas usadas:
 
 ## 👤 Autor del código
 
+Parte de un ejercicio de clase, Econometria 2
+
 César Andrés Vargas Nieto  
 Universidad de los Andes – Facultad de Economía  
 Curso: Econometría II – Año 2023
