@@ -48,5 +48,5 @@ Herramientas usadas:
 Parte de un ejercicio de clase, Econometria 2
 
 César Andrés Vargas Nieto  
-Universidad de los Andes – Facultad de Economía  
+Durante periodo de estudio en la Universidad de los Andes – Facultad de Economía  
 Curso: Econometría II – Año 2023
