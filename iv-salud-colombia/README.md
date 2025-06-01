@@ -30,5 +30,5 @@ Este proyecto aplica métodos de variables instrumentales (IV) para estimar el e
 ## 👤 Autor del código
 
 César Andrés Vargas Nieto  
-Universidad de los Andes – Facultad de Economía  
+Durante periodo de estudio en la Universidad de los Andes – Facultad de Economía  
 Curso: Econometría II – Año 2023
