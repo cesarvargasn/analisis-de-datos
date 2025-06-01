@@ -1,5 +1,5 @@
 // Proyecto: Análisis de clusters y ANOVA en hogares colombianos (2016 - 2020)
-// Autor: César Andrés Vargas Nieto
+// Autor: César Andrés Vargas Nieto (Abril 2025)
 // Basado en ejercicios de clase (Universidad de los Andes)
 
 clear all
