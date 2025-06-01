@@ -31,4 +31,4 @@ Este proyecto aplica métodos de variables instrumentales (IV) para estimar el e
 
 César Andrés Vargas Nieto  
 Universidad de los Andes – Facultad de Economía  
-Curso: Econometría II – Año 2024
+Curso: Econometría II – Año 2023
