@@ -39,5 +39,5 @@ Se emplearon dos fuentes de datos:
 ## 👨‍💻 Autor
 
 César Andrés Vargas Nieto  
-Universidad de los Andes – Facultad de Economía  
+Universidad de los Andes – Facultad de Economía y Facultad de Administración
 Año: 2024
